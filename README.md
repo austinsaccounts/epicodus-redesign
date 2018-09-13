@@ -9,13 +9,28 @@
 
 ![Photo of Sketch File](img/Desktop-LoFi.png)
 
-![Photo of Sketch File](img/Desktop-HiFi.png)
+![Photo of Sketch File](img/Desktop 1.png)
+
+![Photo of Sketch File](img/Desktop 2.png)
+
+![Photo of Sketch File](img/Desktop 3.png)
+
+![Photo of Sketch File](img/Desktop 4.png)
+
+![Photo of Sketch File](img/Desktop 5.png)
 
 ![Photo of Sketch File](img/Mobile-LoFi.png)
 
-![Photo of Sketch File](img/Mobile-HiFi.png)
+![Photo of Sketch File](img/Mobile 1.png)
 
-![Photo of Sketch File](img/Dropdown-Level.png)
+![Photo of Sketch File](img/Mobile 2.png)
+
+![Photo of Sketch File](img/Mobile 3.png)
+
+![Photo of Sketch File](img/Mobile 4.png)
+
+![Photo of Sketch File](img/Mobile 5.png)
+
 
 
 ### Specifications
